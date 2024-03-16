@@ -6,7 +6,7 @@
 
 🚀 **Welcome to my GitHub!  I'm Sachin Sharma** 
 
-🌱 **Currently, I'm focused on advancing my skills in Data Science and creating an impressive [Portfolio Website](https://sachinss96.github.io/Data_Science_Portfolio/).**
+🌱 **Currently, I'm focused on advancing my skills in Data Science and creating an impressive [Portfolio Website](https://sachinss96.github.io/Portfolio/).**
 
 ## 🔧 *Technologies & Tools*
 
@@ -35,6 +35,6 @@
 - Email: sachinofficial294@gmail.com
 - Location: Jammu
 
-🔗 **Portfolio:[Explore My Work](https://sachinss96.github.io/Data_Science_Portfolio/)**
+🔗 **Portfolio:[Explore My Work](https://sachinss96.github.io/Portfolio/)**
 
 ⭐️ **From [Sachin Sharma](https://github.com/SachinSS96)**
